@@ -27,8 +27,6 @@
             tnn = tn;
             tn = parseInt(tn);
             var ew = eW(ew);
-
-
             console.log(tn);
             startJitsi(tn);
         </script>
@@ -37,7 +35,6 @@
             console.log('Same table');}
             else {
             startJitsi(tn)};">Next round!</button>
-
     </main>
 </body>
 
